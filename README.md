@@ -1,5 +1,5 @@
 # bausastra-bot
-A indonesian-english dictionary bot
+An indonesian-english dictionary bot
 
 ## Screenshots
 
